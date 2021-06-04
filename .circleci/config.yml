@@ -45,3 +45,7 @@ workflows:
       - semantic-release:
           requires:
             - prepare
+          filters:
+            branches:
+              only:
+                - master
