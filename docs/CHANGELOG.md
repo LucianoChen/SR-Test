@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/LucianoChen/SR-Test/compare/v1.0.1...v1.0.2) (2021-06-04)
+
+
+### Bug Fixes
+
+* **package:** rename ([38a8778](https://github.com/LucianoChen/SR-Test/commit/38a87781fb32d46a2c06d77be6f7c697f47cefe0))
+
 ## [1.0.1](https://github.com/LucianoChen/SR-Test/compare/v1.0.0...v1.0.1) (2021-06-04)
 
 
