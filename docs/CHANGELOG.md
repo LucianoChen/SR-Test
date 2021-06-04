@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/LucianoChen/SR-Test/compare/v1.0.2...v1.0.3) (2021-06-04)
+
+
+### Bug Fixes
+
+* **git:** test ([e754b63](https://github.com/LucianoChen/SR-Test/commit/e754b630f7dd9d74d5f291d685ea66c9b3d969e1))
+
 ## [1.0.2](https://github.com/LucianoChen/SR-Test/compare/v1.0.1...v1.0.2) (2021-06-04)
 
 
