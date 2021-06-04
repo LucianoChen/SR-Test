@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "@idiot_kj/sr_test",
   "version": "0.0.3",
+=======
+  "name": "@luciano/sr_npm_test",
+  "version": "1.0.4",
+>>>>>>> 5484e50a4779fc3df80d57e1627c9399887fd262
   "description": "",
   "main": "index.js",
   "scripts": {
