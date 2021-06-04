@@ -1,0 +1,12 @@
+# 1.0.0 (2021-06-04)
+
+
+### Bug Fixes
+
+* **release:** test ([e3292e0](https://github.com/LucianoChen/SR-Test/commit/e3292e07e51be9e6923795fac9e5bd5d1e4fefa7))
+* **test:** test ([29c615c](https://github.com/LucianoChen/SR-Test/commit/29c615c5eddaf84ec48f3e0e4243bedb132cbcb8))
+
+
+### Features
+
+* **init:** init ([3a75c85](https://github.com/LucianoChen/SR-Test/commit/3a75c8598d2a794dec201d372f0f0109f5d9e2cf))
